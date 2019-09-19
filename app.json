@@ -1,5 +1,5 @@
 {
-    "name": "wdw example customer backend",
+    "name": "wdw-example-customer-backend",
     "env": {
         "API_KEY": {
             "description": "Specify the API Subscription Key",
