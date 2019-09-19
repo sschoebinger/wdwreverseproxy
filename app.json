@@ -1,0 +1,14 @@
+{
+    "name": "wdw example customer backend",
+    "env": {
+        "API_KEY": {
+            "description": "Specify the API Subscription Key",
+            "required": true
+        },
+        "TARGET_URL": {
+            "description": "Specify the destination URL",
+            "value": "https://api.staging.bosch-wdw.com/public/observation",
+            "required": true
+        }
+    }
+  }
