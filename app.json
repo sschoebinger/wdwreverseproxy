@@ -7,8 +7,8 @@
         },
         "TARGET_URL": {
             "description": "Specify the destination URL",
-            "value": "https://api.staging.bosch-wdw.com/public/observation",
+            "value": "https://api-i.bosch-intelligent-driver-assistance-services.com/wdw/service/observation",
             "required": true
         }
     }
-  }
+}

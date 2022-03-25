@@ -6,7 +6,7 @@ customer client (mobile device or car) --> **customer backend** --> wrong way dr
 
 To execute this example please first create a google cloud project and then click the button below.
 
-To get a valid api key just visit https://portal.bosch-wdw.com/ or https://portal.staging.bosch-wdw.com/, sign up and get a subscription for one of the products.
+To get a valid api key just visit https://developer.bosch-intelligent-driver-assistance-services.com/ or https://developer-i.bosch-intelligent-driver-assistance-services.com/, sign up and get a subscription for the wrong-way driver warning product.
 
 [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/sschoebinger/wdwreverseproxy.git)
 
